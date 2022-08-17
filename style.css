@@ -135,5 +135,7 @@ a:active {
   h4 {
    font-size: 25px;
   }
-  
+  .tab {
+    font-size: 15px;
+   }
 }
