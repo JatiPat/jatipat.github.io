@@ -50,18 +50,39 @@ section.text-section {
 
 aside.image-section {
   width: 50%;
-  background: black;
+  /* Color changing background */
+  background: linear-gradient(-45deg, #97f797, #e78dc6, #5bbbde, #23d5ab);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+	height: 100%;
 }
 
+/* Make it so if you go big then it inceases size
+.image-section img {
+
+
+  width: 100%;
+} 
+*/
+
+.image-section img {
+  width: 900px 
+}
 /* Tabbing */
-
+/* Initial state for tab contents */
 [data-tab-content] {
-  display: none;
+  opacity: 0;
+  height: 0;
+  overflow: hidden;
+  transition: opacity 1s ease, height 0.3s ease;
 }
 
-.active[data-tab-content] {
-  display: block;
+/* Active state for tab contents */
+[data-tab-content].active {
+  opacity: 1;
+  height: auto;
 }
+
 
 body {
   padding: 0;
@@ -139,3 +160,35 @@ a:active {
     font-size: 14px;
    }
 }
+
+
+
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+
+
+/* //old tabbing
+[data-tab-content] {
+  display: none;
+  
+}
+
+.active[data-tab-content] {
+  transition-delay: 10s;
+  display: block;
+  
+}*.
+
+
+
