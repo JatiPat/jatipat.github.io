@@ -190,5 +190,19 @@ a:active {
   
 }*.
 
+*/
+.mytable {
+  display: flex;
+  justify-content: space-between;
+  max-width: 90%;
+}
 
+.left-column {
+  flex: 1;
+}
+
+.right-column {
+  flex: 1;
+  text-align: right;
+}
 
