@@ -33,7 +33,7 @@ I figured out my website should be:
 * Solution: Use @mediascreens to set up specific font sizes, content, layout, etc. And get rid of the image on the phone, it takes too much space
 
 3.  It’s okay, but still not hooking me in!
-* Solution: Chnage the design by making the left image friendlier and more movement. Add a gradient with keyframes to make the image more dynamic. Change your name with a different font style (Great Vibes from Google fonts. Add a slight delay in pressing the tab and showing in information to make it more seamless.
+* Solution: Change the design by making the left image friendlier and more movement. Add a gradient with keyframes to make the image more dynamic. Change your name with a different font style (Great Vibes from Google fonts. Add a slight delay in pressing the tab and showing in information to make it more seamless.
 
 ## Conclusion
 I created a personal portfolio using three main steps: research what’s cool out there, find my own style, and implement it. By making all the content modular on the HTML page dark while using CSS to add more vibrant colors and movement, this portfolio illustrates my professionalism and personality. 
