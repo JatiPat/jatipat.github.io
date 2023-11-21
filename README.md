@@ -14,12 +14,11 @@ I figured out my website should be:
 ### First Prototype in Procreate
 ![First Prototype in Procreate](firstprototype.jpg)
 
-*  Findings: 50/50 formatting is good, but black background with white text would mesh well and will cause less eye strain.
+*  Findings: 50/50 formatting is good, but black background with white text would mesh well and will cause less eye strain. Color choice of hot pink and neon blue came from Joycon controllers and works well. Three main sections is a good way to keep things minimalistic, so it’s time to make it!
 
 ### Joycons for Color Reference
 ![Joycons for Color Reference](joycons.jpg)
 
-* Color choice of hot pink and neon blue came from Joycon controllers and works well. Three main sections is a good way to keep things minimalistic, so it’s time to make it!
 
 ## Development Process
 * Easy to split sections with flexboxes
