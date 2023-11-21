@@ -2,7 +2,6 @@
 body {
   color: white;
   background-color: black;
-  font-family: Times New Roman;
   padding: 0px;
   margin: 0px;
   box-sizing: border-box;
@@ -138,7 +137,7 @@ a:active {
   text-decoration: underline;
 }
 
-/*Setting up subtilles to take up space*/
+/*Setting up subtitles to take up space*/
 .mytable {
   display: flex;
   justify-content: space-between;
@@ -148,7 +147,7 @@ a:active {
 .mytable2 {
   display: flex;
   justify-content: space-between;
-width: 95%;
+  width: 95%;
 }
 
 .left-column {
@@ -163,7 +162,7 @@ width: 95%;
 /*Setting image to grow bigger if screen gets big*/
 @media screen and (min-width: 1550px) {
   .image-section img {
-    width: 100%;
+  width: 100%;
   }
 }
 
