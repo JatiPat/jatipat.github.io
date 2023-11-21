@@ -1,7 +1,7 @@
 # Portfolio Page Design Process
 My Portfolio Website: [jatipat.github.io](https://jatipat.github.io)
 
-There were three main steps to designing my personal website: (1) Research what makes a personal website cool (3) Find your own style, and (2) Develop the website based on that style.
+There were three main steps to designing my personal website: (1) Research what makes a personal website cool (2) Find your own style, and (3) Develop the website based on that style.
 
 ## Research Process
 Researching other cool pages was really easy. I recommend looking up “Portfolio Page Review” on Youtube to get an eye for page design.
